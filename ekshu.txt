@@ -1,14 +1,8 @@
-<<<<<<< HEAD
 <<<< HExAD
-=======
 hello World
->>>>>>> feature
-=======
 exit
 Exit
-
-=======
 hello andhra
 hello World
->>>>>>> feature
 This is romeo
+hello andhra
